@@ -11,13 +11,102 @@
             "id": "96b776c2a63820e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/01_Procesos de Desarrollo/Definition of Done.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Definition of Done"
+            }
+          },
+          {
+            "id": "db33aaca073d2cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4b1b7b874fa43db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitoreo de Aplicación"
+            }
+          },
+          {
+            "id": "c4ffdb9fd52f60df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/09_IA/ Mecanismo de atención utilizado en la arquitectura de Transformers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mecanismo de atención utilizado en la arquitectura de Transformers"
+            }
+          },
+          {
+            "id": "62c5c279ea5ef933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/09_IA/Ventana de contexto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ventana de contexto"
+            }
+          },
+          {
+            "id": "dad02170e2da9374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/09_IA/Embeddings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embeddings"
+            }
+          },
+          {
+            "id": "2fe74b0a19787f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/09_IA/Embeddings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embeddings"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,6 +245,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -165,8 +255,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96b776c2a63820e6",
+  "active": "2fe74b0a19787f7c",
   "lastOpenFiles": [
+    "CE1116/09_IA/Large Language Models.md",
+    "CE1116/09_IA/Mecanismo de atención utilizado en la arquitectura de Transformers.md",
+    "CE1116/09_IA/Redes Neuronales.md",
+    "CE1116/09_IA/Ventana de contexto.md",
+    "CE1116/09_IA/Tokenización.md",
+    "CE1116/09_IA/Embeddings.md",
+    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
+    "CE1116/09_IA/Monitoreo de Aplicación.md",
+    "CE1116/08_Templates/Atomic Template.md",
+    "README.md",
+    "CE1116/09_IA",
+    "Sin título.md",
+    "CE1116/01_Procesos de Desarrollo/Definition of Done.md",
+    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
+    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/01_Procesos de Desarrollo/Product Owner.md",
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
     "CE1116/01_Procesos de Desarrollo/Story Points.md",
@@ -177,22 +283,7 @@
     "CE1116/02_Requerimientos/Requerimientos funcionales.md",
     "CE1116/02_Requerimientos/Requerimientos de sistema.md",
     "CE1116/02_Requerimientos/Requerimientos de negocio.md",
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/01_Procesos de Desarrollo/Definition of Done.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/01_Procesos de Desarrollo/User Story.md",
-    "CE1116/01_Procesos de Desarrollo/Taskboard.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/02_Requerimientos/Entrevistas.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "README.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -202,7 +293,6 @@
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
     "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño",
-    "CE1116/02_Requerimientos"
+    "CE1116/03_Arquitectura y Diseño"
   ]
 }
