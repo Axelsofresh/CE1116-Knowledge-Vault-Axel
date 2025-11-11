@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2025-10-16 15:53
 Fecha de Modificación: 2025-10-16 15:53
-tags: 
+tags:
+  - arquitectura
 Tema:
 ---
 
@@ -16,7 +17,7 @@ Es una métrica que permite cuantificar el grado en que una aplicación está fu
 - Requiere observabilidad: monitoreo, métricas y trazas para anticipar fallas.
 
 ## 🔗 Connections
-- [[ ]]
+- [[Trade off en el diseño y arquitectura de software.]]
 
 ## 💡 Personal Insight (Opcional)
 - 

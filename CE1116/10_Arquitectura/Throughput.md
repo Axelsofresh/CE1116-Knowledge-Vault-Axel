@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2025-10-16 15:57
 Fecha de Modificación: 2025-10-16 15:57
-tags: 
+tags:
+  - arquitectura
 Tema:
 ---
 
@@ -16,7 +17,7 @@ Es una métrica que indica la capacidad de un sistema de realizar un trabajo (op
 - Se cuantifica con unidades como transacciones/s o Mbps, distinto del ancho de banda
 
 ## 🔗 Connections
-- [[ ]]
+- [[Trade off en el diseño y arquitectura de software.]]
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2025-10-16 15:56
 Fecha de Modificación: 2025-10-16 15:56
-tags: 
+tags:
+  - arquitectura
 Tema:
 ---
 
@@ -16,7 +17,7 @@ Es el tiempo que tarda un sistema en responder a una petición que se le realiza
 - La latencia de red depende de distancia, propagación y número de saltos.
 
 ## 🔗 Connections
-- [[ ]]
+- [[Trade off en el diseño y arquitectura de software.]]
 
 ## 💡 Personal Insight (Opcional)
 - 

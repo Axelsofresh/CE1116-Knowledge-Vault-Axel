@@ -1,7 +1,8 @@
 ---
 Fecha de creación: 2025-10-16 15:49
 Fecha de Modificación: 2025-10-16 15:49
-tags: 
+tags:
+  - arquitectura
 Tema:
 ---
 
